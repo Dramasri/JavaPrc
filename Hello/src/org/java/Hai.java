@@ -8,6 +8,10 @@ public class Hai {
     	  System.out.println("hai");
     	  
     	  System.out.println("hello");
+    	  
+    	  System.out.println("hello java");
+    	  
+    	  System.out.println("hello selenium");
 		
 	}
 }
